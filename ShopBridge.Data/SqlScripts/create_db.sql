@@ -1,0 +1,2 @@
+﻿create Database ShopBridge
+Go

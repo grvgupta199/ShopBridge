@@ -1,0 +1,64 @@
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.Tests.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.Tests.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.dll.config
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.csproj.CopyComplete
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.Model.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Tests\bin\Debug\ShopBridge.Model.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.Tests.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.Tests.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.Model.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.Razor.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.dll.config
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\ShopBridge.Model.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.Razor.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Git Projects\ShopBridge\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.csprojAssemblyReference.cache
+E:\Git Projects\ShopBridge\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.csproj.CoreCompileInputs.cache
+E:\Git Projects\ShopBridge\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.csproj.CopyComplete
+E:\Git Projects\ShopBridge\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.dll
+E:\Git Projects\ShopBridge\ShopBridge.Tests\obj\Debug\ShopBridge.Tests.pdb

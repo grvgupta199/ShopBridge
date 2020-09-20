@@ -1,0 +1,47 @@
+﻿@model ShopBridge.Model.Item
+
+    <div class="">
+        <h4>Item Details</h4>
+        <hr />
+        <div class="row">
+            <div class="col-lg-6 ">
+                <table class="table  table-bordered table-sm mt-4">
+                    <tr>
+                        <th class="bg-light">
+                            @Html.DisplayNameFor(model => model.Name)
+                        </th>
+                        <td> @Html.DisplayFor(item => item.Name)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">
+                            @Html.DisplayNameFor(model => model.Price)
+                        </th>
+
+                        <td>  @Html.DisplayFor(model => model.Price)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">
+                            @Html.DisplayNameFor(model => model.Description)
+                            </th>
+                        <td> @Html.DisplayFor(item => item.Description)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">
+                            @Html.DisplayNameFor(model => model.CreatedOn)
+                        </th>
+                        <td> @Html.DisplayFor(item => item.CreatedOn)</td>
+                    </tr>
+
+                   
+
+                </table>
+
+            </div>
+            @if (!string.IsNullOrWhiteSpace(Model.ImagePath))
+            {
+            <div class="col-lg-6">
+                    <img src="@Model.ImagePath" class="img-fluid" />
+            </div>
+            }
+        </div>
+    </div>

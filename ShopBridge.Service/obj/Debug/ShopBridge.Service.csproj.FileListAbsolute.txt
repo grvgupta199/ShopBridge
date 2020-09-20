@@ -1,0 +1,28 @@
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.mdf
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge_log.ldf
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Service.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Service.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Data.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Model.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Data.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Data.dll.config
+C:\Users\Gaurav\source\repos\ShopBridge.Service\bin\Debug\ShopBridge.Model.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.csproj.CopyComplete
+C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.mdf
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge_log.ldf
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Service.dll
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Service.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Data.dll
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Model.dll
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Data.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Data.dll.config
+E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Model.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Service\obj\Debug\ShopBridge.Service.csprojAssemblyReference.cache
+E:\Git Projects\ShopBridge\ShopBridge.Service\obj\Debug\ShopBridge.Service.csproj.CoreCompileInputs.cache
+E:\Git Projects\ShopBridge\ShopBridge.Service\obj\Debug\ShopBridge.Service.csproj.CopyComplete
+E:\Git Projects\ShopBridge\ShopBridge.Service\obj\Debug\ShopBridge.Service.dll
+E:\Git Projects\ShopBridge\ShopBridge.Service\obj\Debug\ShopBridge.Service.pdb

@@ -1,0 +1,32 @@
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge.mdf
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge_log.ldf
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge.Data.dll.config
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge.Data.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge.Data.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\EntityFramework.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge.Model.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\ShopBridge.Model.pdb
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\EntityFramework.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.csproj.CopyComplete
+C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.dll
+C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.mdf
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge_log.ldf
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Data.dll.config
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Data.dll
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Data.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\EntityFramework.dll
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Model.dll
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Model.pdb
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\EntityFramework.xml
+E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git Projects\ShopBridge\ShopBridge.Data\obj\Debug\ShopBridge.Data.csprojAssemblyReference.cache
+E:\Git Projects\ShopBridge\ShopBridge.Data\obj\Debug\ShopBridge.Data.csproj.CoreCompileInputs.cache
+E:\Git Projects\ShopBridge\ShopBridge.Data\obj\Debug\ShopBridge.Data.csproj.CopyComplete
+E:\Git Projects\ShopBridge\ShopBridge.Data\obj\Debug\ShopBridge.Data.dll
+E:\Git Projects\ShopBridge\ShopBridge.Data\obj\Debug\ShopBridge.Data.pdb
