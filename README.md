@@ -42,9 +42,9 @@
   
 
 ## Screenshots
- ![alt text](https://github.com/grvgupta199/ShopBridge/blob/master/ShopBridge/Uploads/home.jpg)
+ ![Home Page](https://github.com/grvgupta199/ShopBridge/blob/master/ShopBridge/Uploads/Home.png?raw=true)
  
- ![alt text](https://github.com/grvgupta199/ShopBridge/blob/master/ShopBridge/Uploads/details.jpg)
+ ![Item Details](https://github.com/grvgupta199/ShopBridge/blob/master/ShopBridge/Uploads/Details.png?true)
   
   
   
