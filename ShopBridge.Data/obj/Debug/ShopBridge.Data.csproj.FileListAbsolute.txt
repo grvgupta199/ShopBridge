@@ -14,8 +14,6 @@ C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.csproj.Co
 C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.csproj.CopyComplete
 C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.dll
 C:\Users\Gaurav\source\repos\ShopBridge.Data\obj\Debug\ShopBridge.Data.pdb
-E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.mdf
-E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge_log.ldf
 E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Data.dll.config
 E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Data.dll
 E:\Git Projects\ShopBridge\ShopBridge.Data\bin\Debug\ShopBridge.Data.pdb

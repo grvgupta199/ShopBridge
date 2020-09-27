@@ -78,8 +78,6 @@ C:\Users\Gaurav\source\repos\ShopBridge.Api\bin\EntityFramework.SqlServer.dll
 C:\Users\Gaurav\source\repos\ShopBridge.Api\bin\EntityFramework.SqlServer.xml
 C:\Users\Gaurav\source\repos\ShopBridge.Api\bin\ShopBridge.mdf
 C:\Users\Gaurav\source\repos\ShopBridge.Api\bin\ShopBridge_log.ldf
-E:\Git Projects\ShopBridge\ShopBridge.Api\bin\ShopBridge.mdf
-E:\Git Projects\ShopBridge\ShopBridge.Api\bin\ShopBridge_log.ldf
 E:\Git Projects\ShopBridge\ShopBridge.Api\bin\ShopBridge.Api.dll.config
 E:\Git Projects\ShopBridge\ShopBridge.Api\bin\ShopBridge.Api.dll
 E:\Git Projects\ShopBridge\ShopBridge.Api\bin\ShopBridge.Api.pdb

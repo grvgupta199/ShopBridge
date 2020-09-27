@@ -6,7 +6,6 @@ C:\Users\Gaurav\source\repos\ShopBridge.Model\obj\Debug\ShopBridge.Model.pdb
 C:\Users\Gaurav\source\repos\ShopBridge.Model\obj\Debug\ShopBridge.Model.csprojAssemblyReference.cache
 E:\Git Projects\ShopBridge\ShopBridge.Model\bin\Debug\ShopBridge.Model.dll
 E:\Git Projects\ShopBridge\ShopBridge.Model\bin\Debug\ShopBridge.Model.pdb
-E:\Git Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.csprojAssemblyReference.cache
 E:\Git Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.csproj.CoreCompileInputs.cache
 E:\Git Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.dll
 E:\Git Projects\ShopBridge\ShopBridge.Model\obj\Debug\ShopBridge.Model.pdb

@@ -1,6 +1,7 @@
-﻿using System;
+﻿using ShopBridge.Api;
+using System;
 using System.Net.Http;
-
+using System.Web.Http;
 
 namespace ShopBridge.ApiServices
 {
@@ -10,59 +11,56 @@ namespace ShopBridge.ApiServices
     /// </summary>
     public class ApiService
     {
-      
-       static readonly string BASE_URL = System.Configuration.ConfigurationManager.AppSettings["webapiURL"];
+        private static ApiService _service;
+        private HttpClient _httpClient;
+        private HttpConfiguration _config;
 
-        public static TResponse Get<TResponse>(string url) 
+        static ApiService()
         {
-
-            HttpClientHandler handler = new HttpClientHandler();
-
-            handler.UseDefaultCredentials = true;
-            using (var client = new HttpClient(handler, true))
+            if (_service == null)
             {
-                client.DefaultRequestHeaders.Accept.Clear();
-                client.BaseAddress = new Uri(BASE_URL);
-                client.Timeout = TimeSpan.FromSeconds(2400);
-                var response = client.GetAsync(url).Result;
-                if (response.IsSuccessStatusCode == false)
-                {
-                    return default(TResponse);
-                }
-                else
-                {
-                    var data = response.Content.ReadAsAsync<TResponse>().Result;
-                    return data;
-                }
-            }
+                _service = new ApiService();
 
-        }
-        
-        public static TResponse Post<TRequest, TResponse>(string url, TRequest content) 
-        {
-            HttpResponseMessage response = null;
-
-            HttpClientHandler handler = new HttpClientHandler();
-            handler.UseDefaultCredentials = true;
-            using (var client = new HttpClient(handler, true))
-            {
-                client.Timeout = TimeSpan.FromSeconds(2400);
-                client.BaseAddress = new Uri(BASE_URL);
-                response = client.PostAsJsonAsync<TRequest>(url, content).Result;
-
-                if (!response.IsSuccessStatusCode)
-                {
-                    return default(TResponse);
-                }
-                else
-                {
-                    return response.Content.ReadAsAsync<TResponse>().Result; ;
-                }
-
+                _service._config = new HttpConfiguration();
+                WebApiConfig.Register(_service._config);
+                var server = new HttpServer(_service._config);
+                _service._httpClient = new HttpClient(server);
+                _service._httpClient.BaseAddress = new Uri("http://routetest/api");
             }
         }
 
-      
+        public static TResponse Get<TResponse>(string url)
+        {
+            var response = _service._httpClient.GetAsync(string.Format("api/{0}",url)).Result;
+            if (response.IsSuccessStatusCode == false)
+            {
+                return default(TResponse);
+            }
+            else
+            {
+                var data = response.Content.ReadAsAsync<TResponse>().Result;
+                return data;
+            }
+
+
+        }
+
+        public static TResponse Post<TRequest, TResponse>(string url, TRequest content)
+        {
+            var response = _service._httpClient.PostAsJsonAsync<TRequest>(string.Format("api/{0}", url), content).Result;
+            if (!response.IsSuccessStatusCode)
+            {
+                return default(TResponse);
+            }
+            else
+            {
+                return response.Content.ReadAsAsync<TResponse>().Result; ;
+            }
+
+
+        }
+
     }
+
 
 }

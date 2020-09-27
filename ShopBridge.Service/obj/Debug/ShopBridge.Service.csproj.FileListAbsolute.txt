@@ -12,8 +12,6 @@ C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.csp
 C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.csproj.CopyComplete
 C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.dll
 C:\Users\Gaurav\source\repos\ShopBridge.Service\obj\Debug\ShopBridge.Service.pdb
-E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.mdf
-E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge_log.ldf
 E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Service.dll
 E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Service.pdb
 E:\Git Projects\ShopBridge\ShopBridge.Service\bin\Debug\ShopBridge.Data.dll

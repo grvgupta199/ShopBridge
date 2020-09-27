@@ -3,17 +3,16 @@ using ShopBridge.Model;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
-using System.Web.UI.WebControls;
 
 namespace ShopBridge.Controllers
 {
     [RoutePrefix("Item")]
     public class ItemController : Controller
     {
+
         [Route("~/")]
         [Route("Index"), HttpGet]
         public async Task<ActionResult> Index()
