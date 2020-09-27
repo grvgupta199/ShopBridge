@@ -1,6 +1,6 @@
 # ShopBridge
 
-  ShopBridge is inventory management system which contains basic CRUD operation.
+  ShopBridge is an inventory management system which provides basic CRUD operation.
 
 
 ## Technologies 
