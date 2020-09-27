@@ -20,17 +20,12 @@ namespace ShopBridge.Data
 
         public ShopBridgeContext():base(GetConnectionString())
         {
-            //this.Database.sq
+            
         }
 
        static string GetConnectionString()
         {
-            var path = AppDomain.CurrentDomain.BaseDirectory.ToLower();
-            string index = @"shopbridge\";
-            string mdfFilePath = "";
-            if (path.IndexOf(index) != -1)
-                mdfFilePath = Path.Combine(path.Substring(0,path.IndexOf(index) + index.Length), "ShopBridge.Data","Database", "ShopBridge.mdf");
-            return $@"data source =(LocalDB)\MSSQLLocalDB;attachdbfilename={mdfFilePath};integrated security = True; MultipleActiveResultSets=True;";
+            return @"data source=.;Initial Catalog=ShopBridge;integrated security=True;MultipleActiveResultSets=True;";
         }
 
     }

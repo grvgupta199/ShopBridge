@@ -285,7 +285,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApiService\ApiService.cs" />
-    <Compile Include="ApiService\RouteHelper.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ItemController.cs" />
     <Compile Include="Global.asax.cs">
